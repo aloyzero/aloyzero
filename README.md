@@ -1,6 +1,6 @@
 # Bouchra (aloyzero)
 
-Web developer  focusing mostly on trying to create fun and useful websites , ai applied webapps OTC member/leader.
+Web developer  focusing mostly on trying to create fun and useful websites , ai applied webapps 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&size=20&center=true&vCenter=true&width=650&color=00F5FF&lines=Running+vision+systems+through+the+neon+haze;Teaching+machines+to+see+what+humans+miss;Building+the+future%2C+one+glitchy+commit+at+a+time)
 
