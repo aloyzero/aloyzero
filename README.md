@@ -2,6 +2,8 @@
 
 Web developer building applied AI, computer vision, and creative software projects. OTC member/leader.
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&size=20&center=true&vCenter=true&width=650&color=00F5FF&lines=Running+vision+systems+through+the+neon+haze;Teaching+machines+to+see+what+humans+miss;Building+the+future%2C+one+glitchy+commit+at+a+time)
+
 [![GitHub followers](https://img.shields.io/github/followers/aloyzero?style=flat-square&label=Followers)](https://github.com/aloyzero?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=aloyzero&style=flat-square&label=Profile+views)](https://github.com/aloyzero)
 
@@ -44,12 +46,8 @@ Desktop music player built with the Electron framework.
 
 ---
 
-
----
-
 ## Contribution Status
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aloyzero&theme=default&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aloyzero&theme=default&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aloyzero&theme=minimal)
-
+<p align="center"><i>Thanks for stopping by  may your builds always pass on the first try.</i></p>
