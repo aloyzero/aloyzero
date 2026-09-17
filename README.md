@@ -44,10 +44,6 @@ Desktop music player built with the Electron framework.
 
 ---
 
-## GitHub Stats
-
-![aloyzero's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloyzero&show_icons=true&theme=default&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aloyzero&layout=compact)
 
 ---
 
